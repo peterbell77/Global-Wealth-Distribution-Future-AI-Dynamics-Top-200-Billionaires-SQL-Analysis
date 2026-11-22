@@ -1,9 +1,11 @@
 # 🌍 Global Wealth Distribution & Future AI Dynamics: Top 200 Billionaires SQL Analysis
 
-![Wealth & Demographic Overview](images/wealth_and_demographic_overview.jpg)
+![](AIWEALTH.jpeg)
 
 ## 📌 Project Overview
 This end-to-end **SQL Data Analytics** project investigates global wealth concentration, industry dominance, demographic distributions, and artificial intelligence capital dynamics among the **Top 200 Richest People in the World** (based on the Forbes list).
+
+**Data Source**: To view and access this dataset, [Click here](https://www.kaggle.com/datasets/mayankanand2701/top-200-richest-worlds-billionaires-dataset)
 
 Originally developed under the **FadaQa Tech Scholarship 2.0** data analytics track and expanded into a full global financial research investigation, this repository includes:
 * **64 modular SQL queries** spanning schema design, data cleaning, foundational filtering, aggregations, business research questions, and forward-looking AI/technology economic analyses.
@@ -58,6 +60,8 @@ The dataset contains **200 records** across **7 attributes**:
 
 ## 📊 Executive Summary & Key Findings
 
+![Wealth & Demographic Overview](images/wealth_and_demographic_overview.jpg)
+
 ### 1. Macroeconomic & Demographic Overview
 * **Combined Global Wealth:** **$6,368.50 billion ($6.37 trillion)** across 200 individuals, with a mean net worth of **$31.84 billion** and a mean age of **69.38 years**.
 * **Right-Skewed Wealth Distribution:** Only **53 of the 200 billionaires (26.5%)** exceed the $31.84B average, led by **Bernard Arnault & family** ($233.00B), **Elon Musk** ($195.00B), and **Jeff Bezos** ($194.00B).
@@ -65,6 +69,7 @@ The dataset contains **200 records** across **7 attributes**:
 * **Generational Span:** Ages span **69 years**, from youngest **Mark Mateschitz** (Age **31**, $39.60B) to oldest **Robert Kuok** (Age **100**, $11.50B). Only **16 billionaires (8.0%)** are under age 50, holding **$508.30 billion** combined.
 
 ### 2. Future & Artificial Intelligence Wealth Dynamics
+
 ![Future & AI Wealth Dynamics](images/future_and_ai_wealth_dynamics.jpg)
 
 * **AI & Digital Ecosystem Scale:** Combining **Technology** ($1,738.80B), **Automotive/Autonomous** ($348.60B), **Telecom** ($102.00B), and **Media & Entertainment** ($98.30B) encompasses **54 billionaires** controlling **$2,287.70 billion (35.92%)** of global top-200 wealth.
