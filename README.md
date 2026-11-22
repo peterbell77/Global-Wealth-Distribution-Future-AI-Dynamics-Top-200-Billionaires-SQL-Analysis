@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 This end-to-end **SQL Data Analytics** project investigates global wealth concentration, industry dominance, demographic distributions, and artificial intelligence capital dynamics among the **Top 200 Richest People in the World** (based on the Forbes list).
 
-**Data Source**: To view and access this dataset, [Click here](https://www.kaggle.com/datasets/mayankanand2701/top-200-richest-worlds-billionaires-dataset)
+**Data Source**: To view and access the original dataset, [Click here](https://www.kaggle.com/datasets/mayankanand2701/top-200-richest-worlds-billionaires-dataset)
 
 Originally developed under the **FadaQa Tech Scholarship 2.0** data analytics track and expanded into a full global financial research investigation, this repository includes:
 * **64 modular SQL queries** spanning schema design, data cleaning, foundational filtering, aggregations, business research questions, and forward-looking AI/technology economic analyses.
@@ -60,23 +60,23 @@ The dataset contains **200 records** across **7 attributes**:
 
 ## 📊 Executive Summary & Key Findings
 
-![Wealth & Demographic Overview](images/wealth_and_demographic_overview.jpg)
-
 ### 1. Macroeconomic & Demographic Overview
 * **Combined Global Wealth:** **$6,368.50 billion ($6.37 trillion)** across 200 individuals, with a mean net worth of **$31.84 billion** and a mean age of **69.38 years**.
 * **Right-Skewed Wealth Distribution:** Only **53 of the 200 billionaires (26.5%)** exceed the $31.84B average, led by **Bernard Arnault & family** ($233.00B), **Elon Musk** ($195.00B), and **Jeff Bezos** ($194.00B).
 * **Geographic Dominance:** The **United States** hosts **79 billionaires (39.5%)** holding **$3,130.90 billion (49.16%)** of total top-200 wealth, followed by **France** ($478.80B), **India** ($434.50B), **China** ($387.40B), and **Germany** ($248.20B).
 * **Generational Span:** Ages span **69 years**, from youngest **Mark Mateschitz** (Age **31**, $39.60B) to oldest **Robert Kuok** (Age **100**, $11.50B). Only **16 billionaires (8.0%)** are under age 50, holding **$508.30 billion** combined.
 
-### 2. Future & Artificial Intelligence Wealth Dynamics
+![Wealth & Demographic Overview](wealth_and_demographic_overview.jpg)
 
-![Future & AI Wealth Dynamics](images/future_and_ai_wealth_dynamics.jpg)
+### 2. Future & Artificial Intelligence Wealth Dynamics
 
 * **AI & Digital Ecosystem Scale:** Combining **Technology** ($1,738.80B), **Automotive/Autonomous** ($348.60B), **Telecom** ($102.00B), and **Media & Entertainment** ($98.30B) encompasses **54 billionaires** controlling **$2,287.70 billion (35.92%)** of global top-200 wealth.
 * **Top 10 Tech Concentration:** Just **10 leaders** (Bezos, Zuckerberg, Ellison, Gates, Ballmer, Page, Brin, Dell, Huang, and Zhang Yiming) control **$1,196.40 billion (68.81%)** of all Technology billionaire wealth.
 * **U.S.–China AI Duopoly:** The **United States** holds **79.18% ($1,376.70B)** of global Tech billionaire wealth across 23 leaders, while **China** ranks second at **10.43% ($181.40B)** across 6 leaders.
 * **12-Year Generational Speed Advantage:** Technology billionaires average **59.62 years** old compared to **71.45 years** in traditional asset-heavy sectors, and represent **73.68% ($374.50B)** of all billionaire wealth under age 50.
 * **Upcoming Succession Wave:** **16 billionaires aged 75+** in Technology and Finance & Investments hold **$651.50 billion** poised for institutional and philanthropic reallocation over the next decade.
+
+![Future & AI Wealth Dynamics](future_and_ai_wealth_dynamics.jpg)
 
 ---
 
